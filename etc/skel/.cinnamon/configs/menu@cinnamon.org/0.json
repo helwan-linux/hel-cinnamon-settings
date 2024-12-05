@@ -104,12 +104,12 @@
     },
     "menu-label": {
         "type": "entry",
-        "default": "Menu",
+        "default": "Helwan",
         "description": "Text",
         "tooltip": "Enter custom text to show in the panel.",
         "dependency": "menu-custom",
         "indent": true,
-        "value": ""
+        "value": "Helwan"
     },
     "favbox-min-height": {
         "type": "spinbutton",
